@@ -1,0 +1,20 @@
+Hi there.
+
+welcome to OBCSS project.
+*****What is it*****
+OBCSS is a very small project that i made to make my life easy
+it`s a php "kind of framework" to make css files.
+
+*****How to use it*****
+to use it download the files and in the css folder you will find
+obcss.css that`s the file that you want to modify.
+
+in the config.php & User.json you will find the "shortcuts" that you can use
+inside the obcss.css file (right now there are very small)
+
+to make the magic happens just load the index.html it will trigger the script
+
+
+
+Good day,
+Barak
