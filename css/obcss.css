@@ -1,0 +1,13 @@
+/*php obcss*/
+-b-
+-b-json
+-b-reset
+
+#cc{
+    -b-cc:3;
+    -b-center:contSize;
+}
+h1{
+    -b-center:contSize;
+    -b-p:20px 0px;
+}
